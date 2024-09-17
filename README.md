@@ -4,4 +4,4 @@ Followed a tutorial in my early days of learnings to make this page with basic H
 ## Leveraged Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-## How To See It For Yourself [Web](https://nelsosp.github.io/2-Javascript-Project/)
+## [See It Here](https://nelsosp.github.io/2-Javascript-Project/)
